@@ -1,3 +1,1 @@
-aaaa initial
-modif dans github
-modif local
+encore modif locale
